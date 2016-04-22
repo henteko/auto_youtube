@@ -1,2 +1,2 @@
 #!/bin/sh
-youtube-dl 'YouTube URL' -o - | mplayer - -novideo
+/usr/local/bin/youtube-dl 'YouTube URL' -o - | /usr/local/bin/mplayer - -novideo
